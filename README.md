@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dillonchewwx
 - 👀 I’m interested in exploiting biotechnology to solve healthcare, industrial and sustainability related issues. 
 - 🌱 I’m currently working in the area of computational biology and self-learning Bioinformatics, Data Analytics and Machine Learning.
-- 💞️ I’m looking to exchange ideas and collaborate on bio-related projects in any of the abovementioned areas.
+- 💞️ I’m looking to exchange ideas and collaborate on bio & data-related projects in any of the abovementioned areas.
 - 📫 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/dillonchewwx/)
 
 <!---

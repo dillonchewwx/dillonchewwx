@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dillonchewwx
 - 👀 I’m passionate about bringing biosolutions to life and drive the transformation to a more circular, bio-based and sustainable economy
-- 🌱 I’m currently working in the area of computational biology and self-learning Bioinformatics, Data Analytics and Machine Learning.
+- 🌱 In my current role, I work at the crossroads of biology, chemistry, and data science to drive bioscience-led innovation in consumer products
 - 💞️ I’m looking to exchange ideas and collaborate on bio & data-related projects in any of the abovementioned areas.
 - 📫 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/dillonchewwx/)
 
